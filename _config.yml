@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 北极企鹅
+subtitle: 前端技术博客,js,javascript,css,html5,vue,react,jquery,css3
 description:
-keywords:
-author: John Doe
-language:
+keywords: 前端技术博客,js,javascript,css,html5,vue,react,jquery,css3
+author: qetuozm
+language: zh-CN
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hiker
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
